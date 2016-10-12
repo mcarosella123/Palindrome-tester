@@ -1,4 +1,4 @@
-# Project 04
+# Project 04 - A "Quick" Project
 
 Objectives:  
 
@@ -7,7 +7,7 @@ Objectives:
   
 This project is worth 15 points.  This project is based on [LM] Project 2, pp. 208.
 
-Please note this is an **_INDIVIDUAL_** project, and not a group project.
+Please note this is an **_INDIVIDUAL_** project, and not a group project. Note that this project is classified as a *Quick* project. It is meant to require a relatively small amount of code, that you can complete in a relatively small amount of time.  (As an example of a similar (but not equivalent) project, you might review [LM]'s `brackets.py` program on pp. 176-177.)
 
 ## Task 1: Create a new branch
 Create a new branch to track your work on this project after accepting the repository. Do *not* commit changes to the 'master' branch.  
