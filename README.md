@@ -60,7 +60,7 @@ Once you have made the required additions above to the various project files, an
 
 Project 04 Marking Criteria | Notes
 ------ | -----
-Test program properly imports required modules (1 pt possible) | 
+Program properly imports required modules (1 pt possible) | 
 Program correctly prompts user for string and stack type (2 pts possible) |
 Program correctly parses string, ignoring whitespace and capitalization (2 pts possible) |
 Program correctly instanties and updates a stack of the required type (3 pts possible) |
