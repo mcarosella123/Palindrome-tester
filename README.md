@@ -18,7 +18,7 @@ You may wish to create additional branches as you solve the following tasks, but
 
 Task 1          |  Notes
 ------          |  --------------------------
-Branch creation | 
+Branch creation | OK-branch created
 
 ## Task 2: Create a plaindrome tester
 Add a new file named `palcheck.py` to your project. In this file, construct a Python program that uses a stack to determine whether or not a user supplied string is a *palindrome*.
@@ -52,7 +52,7 @@ You will find complete definitions of the Stack classes/hieararchy in this repos
 
 Task 2          |  Notes
 ------          |  --------------------------
-Main program | 
+Main program | No separate `main` function...you should consider making a small `main` to separate "is a palindrome" checking from user input
 
 
 ## Submitting your work via 'pull request'
@@ -60,10 +60,12 @@ Once you have made the required additions above to the various project files, an
 
 Project 04 Marking Criteria | Notes
 ------ | -----
-Program properly imports required modules (1 pt possible) | 
-Program correctly prompts user for string and stack type (2 pts possible) |
-Program correctly parses string, ignoring whitespace and capitalization (2 pts possible) |
-Program correctly instanties and updates a stack of the required type (3 pts possible) |
-Program uses stack to determine whether or not string is a palindrome and reports results (3 pts possible) |
-Program asks user whether they wish to continue (1 pt possible) |
-Program correctly commented and well-organized, and follows Python style conventions (3 pts possible) |
+Program properly imports required modules (1 pt possible) | 1 pt
+Program correctly prompts user for string and stack type (2 pts possible) | 2 pts
+Program correctly parses string, ignoring whitespace and capitalization (2 pts possible) | 2 pts
+Program correctly instanties and updates a stack of the required type (3 pts possible) | 3 pts
+Program uses stack to determine whether or not string is a palindrome and reports results (3 pts possible) | 3 pts
+Program asks user whether they wish to continue (1 pt possible) | 1 pt
+Program correctly commented and well-organized, and follows Python style conventions (3 pts possible) | 3 pts (see comments under Task 2 above, though)
+
+Project score: 15/15
